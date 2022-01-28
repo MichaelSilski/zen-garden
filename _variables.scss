@@ -1,9 +1,10 @@
-$fonts-headline: "arial narrow", Arial, Verdana, sans-serif;
-$fonts-body: verdana, arial, sans-serif;
-$background-color: #daede2;
-$primary: #77c4d3;
-$accent1: #ea2e49;
-$accent2: rgba(246, 247, 146, 0.9);
-$grey-sidebar: rgba(51, 55, 69, 0.9);
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400&display=swap');
+
+$fonts: 'Lato', sans-serif;
 $text-dark: #333;
 $text-light: #fff;
+
+$primary: #326125;
+$accent1: #BB4430;
+$accent2: #7EBDC2;
+$background-color: #463014;
